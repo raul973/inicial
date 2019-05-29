@@ -1,2 +1,0 @@
-# inicial
-Estoesparaunatarea
